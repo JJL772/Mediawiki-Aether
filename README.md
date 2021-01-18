@@ -24,3 +24,7 @@ in [Matrix](https://webchat.kde.org/#/room/#freenode_#kde-www:matrix.org).
 ## License
 
 This project is licensied under AGPl-3.0-or-later.
+
+## Modifications
+
+* No longer contains KDE branding (it's all personalized)
